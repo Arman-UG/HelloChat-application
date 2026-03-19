@@ -1,6 +1,6 @@
 {
   "$schema": "https://railway.app/railway.schema.json",
   "deploy": {
-    "startCommand": "cd server && npm install && npm start"
+    "startCommand": "cd HelloChat/server && npm install && npm start"
   }
 }
